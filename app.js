@@ -9,10 +9,8 @@ app.get('/', function(request, response) {
 app.get('/api', function(request, response) {
     let count = parseInt(request.query.count) || 1;
     let useless_facts = facts.useless_facts;
-    console.log(count, useless_facts.length);
     if(count > 1){
         var data = helpers.shuffle(useless_facts).slice(1, count);
-        console.log(data.length)
     }
     else{
         var data = useless_facts[Math.floor(Math.random() * useless_facts.length)];
