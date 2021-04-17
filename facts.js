@@ -556,7 +556,28 @@ var useless_facts = new Array("Most American car horns honk in the key of F.",
     "The average woman owns eight times more makeup than she actually uses.",
     "Rainbows that appear at night are called 'moonbows.'",
     "100 million years ago, crocodiles had long legs and could gallop after their prey.",
-    "The real Top Gun school give a $5 fine to any staff member that quotes the movie.")
+    "The real Top Gun school give a $5 fine to any staff member that quotes the movie.",
+    "Lamps in video games use real electricity.",
+    "\"DO NOT TOUCH\" would probably be a really unsettling thing to read in braille.",
+    "Lawyers hope you get sued, but thieves hope you get rich.",
+    "When people bake bread, they give thousands of yeast organisms false hope by feeding them sugar, before ruthlessly baking them to death in an oven and eating their corpses.",
+    "People who are goodlooking but have terrible personalities are basically real life clickbait.",
+    "The human body is more than 60 percent water. Blood is 92 percent water, the brain and muscles are 75 percent water, and bones are about 22 percent water.",
+    "A human can survive for a month or more without eating food, but only a week or so without drinking water.",
+    "The average adult has eight to 12 pints of blood.",
+    "William Caxton was the first Englishman to learn to use a printing press.",
+    "Granny Smith apples originated in Australia in 1868 when Maria Ann (Granny) Smith found a seedling growing by a creek on her property.",
+    "The average person has about 10,000 taste buds and they're replaced every 2 weeks or so.",
+    "A rain gauge is a type of instrument used by meteorologists and hydrologists to gather and measure the amount of liquid precipitation over a set period of time.",
+    "A honeybee flaps its wings at 230 flaps per second",
+    "There are about 100,000 types of trees in the world.",
+    "The word \"dude\" was first used in the late 1800s as a term of mockery for young men who were overly concerned with keeping up with the latest fashions.",
+    "Amethyst is a purple variety of quartz and owes its violet color to irradiation, iron impurities, and the presence of trace elements, which result in complex crystal lattice substitutions.",
+    "It is a common misconception that bears hibernate during the winter. While bears tend to slow down during the winter, they are not true hibernators.",
+    "About 1% - 2% of the human population has red hair.",
+    "Antarctica is considered a desert.",
+    "Almost every modern piano has 52 white keys and 36 black keys for a total of 88 keys (seven octaves plus a minor third, from A0 to C8)."
+)
 module.exports = {
-    useless_facts: useless_facts};
-
+    useless_facts: useless_facts
+};
